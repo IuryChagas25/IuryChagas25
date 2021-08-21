@@ -15,6 +15,9 @@
   <div align="center">
   <a href="https://github.com/IuryChagas25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iurychagas25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+  ![Snake animation](https://github.com/IuryChagas25/IuryChagas25/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
     
 ## Linguagens e Ferramentas utilizadas
@@ -36,7 +39,6 @@
   <a href="https://github.com/IuryChagas25" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
     
-  ![Snake animation](https://github.com/IuryChagas25/IuryChagas25/blob/output/github-contribution-grid-snake.svg)
     
 </div>
     
