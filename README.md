@@ -9,7 +9,7 @@
 - ⚡ Fato Interessante: Minha paixão por programação veio devido a curiosidade por áreas de TI e Automação.
 - 🏫 Graduando em Engenharia Elétrica na Universidade Federal de Campina Grande - UFCG
 - 💻 Monitor na Disciplina Técnicas de Programação (Programação orientada a objetos  em C++)
-
+- 💻 Monitor na Disciplina Introdução ao Processamento Digital de Imagens Com Visão Computacional (TEEE - Int. PDI)
 
 <div>
   <div align="center">
