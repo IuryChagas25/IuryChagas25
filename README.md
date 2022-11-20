@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente encontro-me estudando Deep Learning e Processamento de Imagens Digitais e Visão Computacional
+- 🔭 Pesquisador na Área de Deep Learning e Processamento Digital de Imagens e Visão Computacional
 - 💬 Faça-me uma pergunta
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Interessante: Minha paixão por programação veio devido a curiosidade por áreas de TI e Automação.
