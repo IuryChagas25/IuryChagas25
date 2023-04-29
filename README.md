@@ -3,6 +3,7 @@
 
 
 - 🔭 Pesquisador na Área de Deep Learning, Processamento Digital de Imagens e Visão Computacional
+- 🔭 Pesquisador em Projeto de CiberSegurança nas Redes 5G - ANATEL
 - 💬 Faça-me uma pergunta
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Interessante: Minha paixão por programação veio devido a curiosidade por áreas de TI e Automação.
@@ -27,6 +28,11 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />   
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
+  <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+  <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
+  <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter"  height="50" />
+  
+  
     
 </div>
 
@@ -34,7 +40,7 @@
     
 <div>
   <div align ="center">
-  <a href="https://instagram.com/iurychagaas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"        target="_blank"></a>
+  <a href="https://instagram.com/iurychagaas" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" target="_blank"></a>
   <a href="https://github.com/IuryChagas25" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white target="_blank" alt=github style="margin-bottom: 5px;" />
     
