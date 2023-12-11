@@ -2,8 +2,7 @@
 
 
 
-- 🔭 Pesquisador na Área de Deep Learning, Processamento Digital de Imagens e Visão Computacional
-- 🔭 Pesquisador em Projeto de CiberSegurança nas Redes 5G - ANATEL
+- 🔭 Desenvolvedor de Visão Computacional
 - 💬 Faça-me uma pergunta
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Interessante: Minha paixão por programação veio devido a curiosidade por áreas de TI e Automação.
