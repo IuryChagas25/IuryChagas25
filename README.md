@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedor de Software
+- 🔭 Sempre aprendendo mais sobre tecnologia, automação industrial e programação
 - 💬 Faça-me uma pergunta
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Interessante: Minha paixão por programação veio devido a curiosidade por áreas de TI e Automação.
