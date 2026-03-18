@@ -2,13 +2,13 @@
 
 
 
-- 🔭 Desenvolvedor de Visão Computacional
+- 🔭 Desenvolvedor de Software
 - 💬 Faça-me uma pergunta
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Interessante: Minha paixão por programação veio devido a curiosidade por áreas de TI e Automação.
-- 🏫 Graduando em Engenharia Elétrica na Universidade Federal de Campina Grande - UFCG
-- 💻 Monitor na Disciplina Técnicas de Programação (Programação orientada a objetos  em C++)
-- 💻 Monitor na Disciplina Introdução ao Processamento Digital de Imagens Com Visão Computacional (TEEE - Int. PDI)
+- 🏫 Engenheiro Eletricista com ênfase em controle e automação formado pela Universidade Federal de Campina Grande - UFCG
+- 💻 Analista de Software e Automação na WEG
+- 💻 Desenvolvedor de Visão Computacional
 
 <div>
   <div align="center">
